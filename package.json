@@ -1,0 +1,8 @@
+{
+  "name": "08. JS-Advanced-Classes-Exercise-Resources",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.0"
+  }
+}
